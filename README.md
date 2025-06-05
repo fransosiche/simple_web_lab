@@ -49,7 +49,7 @@ Ce lab est conçu pour un environnement contrôlé. Ne l'utilisez pas sur des sy
 - Utilisez-le uniquement dans un environnement isolé
 
 ## 🎥 Vidéo associée
-Une vidéo détaillant la solution sera bientôt disponible sur [VOTRE_CHAINE_YOUTUBE]
+Une vidéo détaillant la solution sera bientôt disponible [ici](https://www.youtube.com/@Fransosiche)
 
 ## 📚 Ressources
 - [Documentation Burp Suite](https://portswigger.net/burp/documentation)
